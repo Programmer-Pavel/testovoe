@@ -1,9 +1,5 @@
-<script setup>
-import StopwatchList from "./components/StopwatchList.vue";
-</script>
+<script setup></script>
 
 <template>
-  <StopwatchList />
+    <router-view />
 </template>
-
-<style scoped></style>
